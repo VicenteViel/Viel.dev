@@ -65,7 +65,7 @@ export const projects: Project[] = [
     role: "Design and development.",
     highlights: [],
     stack: ["Next.js", "React", "TypeScript", "CSS"],
-    links: [{ label: "View source", href: "https://github.com/VicenteViel/Viel.dev" }],
+    links: [{ label: "View source", href: "https://github.com/VicenteViel/viel-dev" }],
   },
 ];
 
