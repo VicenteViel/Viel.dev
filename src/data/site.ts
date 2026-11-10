@@ -25,7 +25,7 @@ export const projects: Project[] = [
   {
     id: "mesa",
     name: "Mesa",
-    kind: "Restaurant management platform, in production",
+    kind: "Comandea, a restaurant management platform in production",
     summary:
       "Software that restaurant teams use during service to take orders, manage tables and close bills.",
     role: "Full-stack developer on a live product used by real restaurants.",
@@ -37,7 +37,7 @@ export const projects: Project[] = [
     ],
     stack: ["TypeScript", "React", "Node.js", "PostgreSQL"],
     note: "The codebase is private. I'm happy to walk through my work in an interview.",
-    links: [],
+    links: [{ label: "Visit comandea.com", href: "https://comandea.com" }],
   },
   {
     id: "rumi",
